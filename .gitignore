@@ -11,3 +11,8 @@ models/*.pt
 
 # Ignore logs
 *.log
+
+# Model weights
+*.pt
+*.pth
+models/
